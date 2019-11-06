@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="3bcf0dec-c7ca-4259-b9df-b4f6265034c7" name="laravels" url="http://123.56.96.4">
+        <fileTransfer host="123.56.96.4" port="22" rootFolder="/data/wwwroot/default/laravels" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
